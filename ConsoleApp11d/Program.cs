@@ -15,6 +15,8 @@ namespace ConsoleApp11d
             Console.WriteLine("Hello just hello");
             Console.WriteLine("This app will now officially go hard");
             Console.WriteLine("sveiks no darjas");
+            Console.WriteLine("sveiks no majas");
+
         }
     }
 }
