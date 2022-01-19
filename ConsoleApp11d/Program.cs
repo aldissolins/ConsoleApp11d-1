@@ -17,6 +17,7 @@ namespace ConsoleApp11d
             Console.WriteLine("sveiks no darjas");
             Console.WriteLine("sveiks no majas");
             Console.WriteLine("sveiks no majas1");
+            Console.WriteLine("sveiks no majas2");
 
         }
     }
